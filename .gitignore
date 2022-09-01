@@ -2,7 +2,7 @@ node_modules
 /app/public/hot
 /app/public/storage
 /app/storage/*.key
-/vendor
+/api/vendor
 .env
 .env.backup
 .phpunit.result.cache
